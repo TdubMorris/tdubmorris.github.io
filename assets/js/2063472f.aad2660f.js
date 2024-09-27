@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktobysite=self.webpackChunktobysite||[]).push([[215],{7646:t=>{t.exports=JSON.parse('{"tags":[{"label":"tag","permalink":"/blog/tags/tag","count":1}]}')}}]);
