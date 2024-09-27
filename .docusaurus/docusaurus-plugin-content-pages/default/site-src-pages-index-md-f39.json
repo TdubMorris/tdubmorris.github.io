@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Welcome to the Homepage!",
+  "description": "Thank you for visiting!",
+  "frontMatter": {},
+  "unlisted": false
+}

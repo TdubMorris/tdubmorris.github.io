@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/info",
+  "source": "@site/src/pages/info.md",
+  "title": "Info",
+  "description": "return soon",
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "unlisted": false
+}
