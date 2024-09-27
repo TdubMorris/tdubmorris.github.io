@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktobysite=self.webpackChunktobysite||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Post","permalink":"/blog/first-post","unlisted":false,"date":"2024-09-27T07:13:42.000Z"}]}')}}]);

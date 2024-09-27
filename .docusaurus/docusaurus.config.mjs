@@ -28,7 +28,7 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "C:\\Users\\tobyw\\Documents\\TdubMorris\\Tdub's Homepage\\sidebars.js"
+          "sidebarPath": "C:\\Users\\tobyw\\Documents\\tdubmorris.github.io\\sidebars.js"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -42,7 +42,7 @@ export default {
       "style": "dark",
       "items": [
         {
-          "to": "info",
+          "to": "/info",
           "position": "left",
           "label": "About"
         },

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktobysite=self.webpackChunktobysite||[]).push([[672],{3024:t=>{t.exports=JSON.parse('{"authors":[{"name":"Toby","title":"TdubMorris","imageURL":"https://github.com/TdubMorris.png","key":"tdub","page":null,"count":1}]}')}}]);

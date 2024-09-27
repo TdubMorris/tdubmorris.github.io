@@ -53,7 +53,7 @@ const config = {
         style: 'dark',
         items: [
           {
-            to: 'info',
+            to: '/info',
             position: 'left',
             label: 'About',
           },
